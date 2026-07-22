@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning GitHub and its basics because I want to broaden my QA skillset. Hopefully within 12 weeks I will be able to land a job. 
 <!--
 **munozlui-ops/munozlui-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
